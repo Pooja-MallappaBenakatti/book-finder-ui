@@ -2,7 +2,7 @@
   "name": "book-finder-vite",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Pooja-MallappaBenakatti.github.io/book-finder-ui/",
+  "homepage": "https://pooja-mallappabenakatti.github.io/book-finder-ui/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
